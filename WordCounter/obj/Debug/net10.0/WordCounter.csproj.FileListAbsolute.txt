@@ -1,0 +1,14 @@
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/bin/Debug/net10.0/CountString
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/bin/Debug/net10.0/CountString.deps.json
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/bin/Debug/net10.0/CountString.runtimeconfig.json
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/bin/Debug/net10.0/CountString.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/bin/Debug/net10.0/CountString.pdb
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/WordCounter.AssemblyInfoInputs.cache
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/WordCounter.AssemblyInfo.cs
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/WordCounter.csproj.CoreCompileInputs.cache
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/CountString.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/refint/CountString.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/CountString.pdb
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/WordCounter.genruntimeconfig.cache
+/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/Debug/net10.0/ref/CountString.dll

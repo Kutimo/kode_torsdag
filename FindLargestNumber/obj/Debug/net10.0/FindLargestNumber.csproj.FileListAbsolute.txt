@@ -1,0 +1,14 @@
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/bin/Debug/net10.0/FindLargestNumber
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/bin/Debug/net10.0/FindLargestNumber.deps.json
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/bin/Debug/net10.0/FindLargestNumber.runtimeconfig.json
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/bin/Debug/net10.0/FindLargestNumber.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/bin/Debug/net10.0/FindLargestNumber.pdb
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.AssemblyInfoInputs.cache
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.AssemblyInfo.cs
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.csproj.CoreCompileInputs.cache
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/refint/FindLargestNumber.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.pdb
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/FindLargestNumber.genruntimeconfig.cache
+/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/Debug/net10.0/ref/FindLargestNumber.dll

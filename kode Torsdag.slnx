@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FindLargestNumber/FindLargestNumber.csproj" />
+  <Project Path="FindLargestNumber2/FindLargestNumber2.csproj" />
+  <Project Path="TempConversion\TempConversion.csproj" />
+  <Project Path="WordCounter/WordCounter.csproj" />
+  <Project Path="WordCounter1/WordCounter1.csproj" />
+</Solution>
