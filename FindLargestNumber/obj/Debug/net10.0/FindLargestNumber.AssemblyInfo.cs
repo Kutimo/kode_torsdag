@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindLargestNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea25a7df0f7676c72cd84d53275af2829c661591")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindLargestNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindLargestNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

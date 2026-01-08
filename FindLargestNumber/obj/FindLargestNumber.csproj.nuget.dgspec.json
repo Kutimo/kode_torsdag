@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/FindLargestNumber.csproj": {}
+    "/home/fenriz/dev/c#/kode_torsdag/FindLargestNumber/FindLargestNumber.csproj": {}
   },
   "projects": {
-    "/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/FindLargestNumber.csproj": {
+    "/home/fenriz/dev/c#/kode_torsdag/FindLargestNumber/FindLargestNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/FindLargestNumber.csproj",
+        "projectUniqueName": "/home/fenriz/dev/c#/kode_torsdag/FindLargestNumber/FindLargestNumber.csproj",
         "projectName": "FindLargestNumber",
-        "projectPath": "/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/FindLargestNumber.csproj",
+        "projectPath": "/home/fenriz/dev/c#/kode_torsdag/FindLargestNumber/FindLargestNumber.csproj",
         "packagesPath": "/home/fenriz/.nuget/packages/",
-        "outputPath": "/home/fenriz/dev/c#/undervisning/kode Torsdag/FindLargestNumber/obj/",
+        "outputPath": "/home/fenriz/dev/c#/kode_torsdag/FindLargestNumber/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fenriz/.nuget/NuGet/NuGet.Config"

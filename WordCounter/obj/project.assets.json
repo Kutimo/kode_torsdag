@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/WordCounter.csproj",
+      "projectUniqueName": "/home/fenriz/dev/c#/kode_torsdag/WordCounter/WordCounter.csproj",
       "projectName": "CountString",
-      "projectPath": "/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/WordCounter.csproj",
+      "projectPath": "/home/fenriz/dev/c#/kode_torsdag/WordCounter/WordCounter.csproj",
       "packagesPath": "/home/fenriz/.nuget/packages/",
-      "outputPath": "/home/fenriz/dev/c#/undervisning/kode Torsdag/WordCounter/obj/",
+      "outputPath": "/home/fenriz/dev/c#/kode_torsdag/WordCounter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fenriz/.nuget/NuGet/NuGet.Config"
