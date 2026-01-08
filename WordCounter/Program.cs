@@ -12,7 +12,7 @@ class Program
         // Use Regex.Matches to find all occurrences
         // Regex.Escape ensures special characters are treated literally
         // int count = Regex.Matches(text.ToLower(), Regex.Escape(targetChar.ToString().ToLower())).Count;
-       // Add to lower method twice or ad ignoreCase for regex
+       // Add to lower method twice or add ignoreCase for regex
         int count = Regex.Matches(text, Regex.Escape(targetChar.ToString()), RegexOptions.IgnoreCase).Count;
         Console.WriteLine($"The character '{targetChar}' appears {count} times");
     }

@@ -12,3 +12,4 @@
 /home/fenriz/dev/c#/undervisning/kode Torsdag/TempConversion/obj/Debug/net10.0/TempConversion.pdb
 /home/fenriz/dev/c#/undervisning/kode Torsdag/TempConversion/obj/Debug/net10.0/TempConversion.genruntimeconfig.cache
 /home/fenriz/dev/c#/undervisning/kode Torsdag/TempConversion/obj/Debug/net10.0/ref/TempConversion.dll
+/home/fenriz/dev/c#/undervisning/kode Torsdag/TempConversion/obj/Debug/net10.0/TempConversion.sourcelink.json

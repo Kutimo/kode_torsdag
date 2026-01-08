@@ -38,6 +38,8 @@ class Program
                     // {num} inserts the Celsius value, {fahrenheit.ToString("F2")} formats Fahrenheit to 2 decimals
                     Console.WriteLine($"{num}°C = {fahrenheit.ToString("F2")}°F");
 
+                    // get a 2-second freeze of the thread to see the actual conversion data
+                    Thread.Sleep(2000);
                     // Show the menu again so the user can make another choice
                     ShowMenu();
                 }
@@ -64,7 +66,9 @@ class Program
 
                     // Display the result with 2 decimal places
                     Console.WriteLine($"{num}°F = {celsius.ToString("F2")}°C");
-
+                    
+                    // get a 2-second freeze of the thread to see the actual conversion data
+                    Thread.Sleep(2000);
                     // Show the menu again for another conversion
                     ShowMenu();
                 }

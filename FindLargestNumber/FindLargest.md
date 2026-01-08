@@ -1,4 +1,4 @@
-## Find Largest Number - Quick Start
+## Find Largest Number – Quick Start
 
 **Task:** Build a console app that finds the largest number in an array of
 integers.

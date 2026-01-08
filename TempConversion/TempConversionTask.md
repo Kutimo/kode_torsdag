@@ -1,4 +1,4 @@
-## Temperature Converter - Quick Start
+## Temperature Converter – Quick Start
 
 **Task:** Build a console app that converts temperatures. Show menu → get
 input → convert → repeat until quit.
